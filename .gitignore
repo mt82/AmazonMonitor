@@ -1,0 +1,5 @@
+mailconf
+*.csv
+*.png
+*.txt
+.vscode/*
