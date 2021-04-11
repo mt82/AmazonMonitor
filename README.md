@@ -1,2 +1,2 @@
-# amazonmonitor
+# AmazonMonitor
 Monitor Amazon products
